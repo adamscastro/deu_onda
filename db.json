@@ -1,0 +1,55 @@
+{
+  "quantidade_eventos": 5,
+  "eventos": [
+    {
+      "id": 1,
+      "evento": "Festival de Verão",
+      "descricao_curta": "Explore o Festival de Verão: música, esportes e diversão à beira-mar em Fortaleza!",
+      "descricao_detalhada": "O Festival de Verão é um evento anual que celebra a cultura, música e diversão à beira-mar. Durante três dias emocionantes, a praia se transforma em um palco vibrante para uma série de atividades emocionantes. O evento destaca a rica herança cultural da região, proporcionando uma experiência envolvente para moradores locais e turistas.",
+      "tipo_evento": "Gratuito",
+      "endereco": "Praia do Futuro, Fortaleza, Ceará",
+      "data": "05/01",
+      "imagem": "/image/surfista1.jpg"
+    },
+    {
+      "id": 2,
+      "evento": "Luau Noturno",
+      "descricao_curta": "Desfrute de uma noite mágica sob as estrelas no Luau Noturno em Copacabana!",
+      "descricao_detalhada": "O Luau Noturno é uma celebração à beira-mar repleta de música ao vivo, dança havaiana e deliciosas iguarias tropicais. Junte-se a nós para uma noite inesquecível enquanto as ondas quebram suavemente ao fundo, criando um ambiente perfeito para relaxar e aproveitar a companhia de amigos e familiares.",
+      "tipo_evento": "Gratuito",
+      "endereco": "Praia do Futuro, Fortaleza, Ceará",
+      "data": "15/02",
+      "imagem": "/image/luau.jpg"
+    },
+    {
+      "id": 3,
+      "evento": "Passeio de Jangada ao Entardecer",
+      "descricao_curta": "Navegue ao entardecer em um passeio de jangada exclusivo na Praia do Futuro!",
+      "descricao_detalhada": "Embarque em uma jangada tradicional para uma experiência relaxante ao entardecer nas águas calmas da Praia do Futuro. Deixe-se levar pelas cores suaves do pôr do sol enquanto desfruta de um passeio tranquilo. Esta é uma oportunidade única para vivenciar a beleza natural da costa de Fortaleza de uma maneira autêntica e memorável.",
+      "tipo_evento": "Pago",
+      "endereco": "Praia do Futuro, Fortaleza, Ceará",
+      "data": "10/04",
+      "imagem": "/image/jangada_entardecer.jpg"
+    },
+    {
+      "id": 4,
+      "evento": "Campeonato de Vôlei de Praia",
+      "descricao_curta": "Assista aos melhores atletas competirem no Campeonato de Vôlei de Praia na Praia do Futuro!",
+      "descricao_detalhada": "O Campeonato de Vôlei de Praia traz o melhor do esporte à areia dourada da Praia do Futuro. Desfrute de partidas intensas, habilidades incríveis e uma atmosfera contagiante enquanto os times competem pelo título. Traga sua torcida e viva a emoção do vôlei de praia de alto nível.",
+      "tipo_evento": "Gratuito",
+      "endereco": "Praia do Futuro, Fortaleza, Ceará",
+      "data": "20/03",
+      "imagem": "/image/volei.jpg"
+    },
+    {
+      "id": 5,
+      "evento": "Festival Gastronômico à Beira-Mar",
+      "descricao_curta": "Delicie-se com sabores incríveis no Festival Gastronômico à Beira-Mar na Praia do Futuro!",
+      "descricao_detalhada": "Saboreie o melhor da culinária à beira-mar! O Festival Gastronômico apresenta uma variedade de pratos deliciosos, desde frutos do mar frescos até iguarias locais. Desfrute de refeições excepcionais enquanto aprecia a vista espetacular do oceano. Uma experiência gastronômica imperdível para os amantes da boa comida e da praia.",
+      "tipo_evento": "Pago",
+      "endereco": "Praia do Futuro, Fortaleza, Ceará",
+      "data": "25/05",
+      "imagem": "/image/gastronomia.jpg"
+    }
+  ]
+}
